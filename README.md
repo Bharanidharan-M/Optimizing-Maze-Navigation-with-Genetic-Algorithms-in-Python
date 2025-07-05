@@ -21,11 +21,3 @@ The goal is to move from the **top-left corner (0,0)** to the **bottom-right cor
 
 ---
 
-## 🛠️ Installation
-
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/yourusername/genetic-maze-solver.git
-cd genetic-maze-solver
-pip install matplotlib deap
